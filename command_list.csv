@@ -1,0 +1,171 @@
+    1  pwd
+    2  CD..
+    3  clear
+    4  pwd
+    5  cd..
+    6  ls -l
+    7  cd Documents
+    8  cd games
+    9  clear
+   10  cd C
+   11  cd/c/
+   12  cd /c/
+   13  cd /c/ games/
+   14  clear
+   15  pwd
+   16  cd documents
+   17  clear
+   18  cd documents
+   19  ls -l
+   20  cd.. Documents/
+   21  clear
+   22  cd .. Documentd/
+   23  cd ..Documets/
+   24  ls -l
+   25  ls -l
+   26  whoami
+   27  ls - la
+   28  clear
+   29  cd Documents
+   30  ls -la
+   31  ls -l
+   32  ls -la
+   33  touch trxt.txt
+   34  ls - l
+   35  cd Documents
+   36  ls - l
+   37  clear
+   38  cd Documents
+   39  ls -l
+   40  mkdir New1
+   41  cd New1
+   42  pwd
+   43  cp ../text.txt ./
+   44  ls -l
+   45  clear
+   46  cd New1
+   47  cp ../text.txt .New1//
+   48  cd documents
+   49  clear
+   50  cd documents
+   51  touch text.txt
+   52  clear
+   53  cd documents
+   54  cp ../trxt.txt/ ./
+   55  clear
+   56  cd Documents
+   57  cd New
+   58  cd Documents
+   59  is -l
+   60  ls -l
+   61  cd ../
+   62  ls -l
+   63  cp ../trxt.txt/ ./
+   64  clear
+   65  cd New1
+   66  ls l
+   67  ls -l
+   68  cp ../db2 ./
+   69  ls -l
+   70  cd ../
+   71  touch text1.txt
+   72  ls -l
+   73  cd New
+   74  cp ../text1.txt/ ./
+   75  cp Documents/text1.txt/ ./
+   76  cp Documents/text1.txt/ New/
+   77  cp clear
+   78  clear
+   79  cd New
+   80  cp ../text.txt/ ./
+   81  nano text.txt
+   82  nano text.txt
+   83  wim text.txt
+   84  vim text.txt
+   85  nano text.txt
+   86  cat text.txt
+   87  head text.txt
+   88  tail text.txt
+   89  cat text.txt | grep 500
+   90  clear
+   91  ping google.com
+   92  date
+   93  df -h
+   94  systsminfo
+   95  clear
+   96  systeminfo
+   97  systeminfo
+   98  clear
+   99  ls -l
+  100  mv text.txt ../
+  101  cd Documents
+  102  ls -l
+  103  cd ../
+  104  ls -l
+  105  mv test.txt New
+  106  clear
+  107  cd New
+  108  ls -l
+  109  mv db2.png ../
+  110  cd ../
+  111  rm text1.txt
+  112  rm -rf New
+  113  clear
+  114  mkdir git_goit
+  115  cd git_goit
+  116  ls -l
+  117  git config --global user.name nataliamykytchenko
+  118  git config --get user.name
+  119  git config -- global user.email nataliamykytchenko@gmail.com
+  120  git config --get user.email
+  121  git config --global user.email nataliamykytchenko@gmail.com
+  122  git config --get user.email
+  123  git clone ps://github.com/nataliamykytchenko/test.git
+  124  ls -l
+  125  git clone https://github.com/nataliamykytchenko/HW_10.git
+  126  ls -l
+  127  cd HW_10
+  128  ls -la
+  129  git status
+  130  git log
+  131  git checkout -b develop
+  132  git branch
+  133   git status
+  134  touch develop_test.txt
+  135  ls -l
+  136  git status
+  137  git add .
+  138  git status
+  139  git commit -m "added new file"
+  140  git status
+  141  git log
+  142  gitcheckout main
+  143  git checkout main
+  144  git log
+  145  git checkout HW_10
+  146  git checkout develop
+  147  git push
+  148  git push origin develop
+  149  git status
+  150  git push origin HW_10
+  151  git push origin develop
+  152  clear
+  153  git checkout main
+  154  git merge develop
+  155  git status
+  156  git log
+  157  git push origin main
+  158  ls - la
+  159  clear
+  160  ls -la
+  161  vim. gitignore
+  162  vim .gitignore
+  163  touch text_ignore.txt
+  164  ls -l
+  165  git status
+  166  git add
+  167  git add .
+  168  git commit -m "changed gitignore"
+  169  git status
+  170  git push origin main
+  171  history > command_list.csv
